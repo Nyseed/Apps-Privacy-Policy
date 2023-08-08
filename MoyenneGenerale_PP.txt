@@ -1,7 +1,5 @@
-Welcome to the Shake Alarm Clock app for Android!
+Welcome to the Moyenne Generale app for Android!
 
-This is an open source Android app developed by Wrichik Basu. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
+This is an Android app developed by Romy Estepol available on Google Play.
 
-As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
-
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and alarms) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+I hereby state that I have not programmed this app to collect any personally identifiable information. All data (grade related information) created by you (the user) is stored on your device only, and can be simply erased by deleting it manualy on the app, also by clearing the app's data or just uninstalling it.
